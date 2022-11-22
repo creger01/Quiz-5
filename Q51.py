@@ -1,1 +1,3 @@
-#the authors' name is Cadyn
+import os
+cwd = os.getcwd()
+print(cwd) 
